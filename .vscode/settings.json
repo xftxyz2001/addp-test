@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "cstring": "c",
+        "vector": "c",
+        "xmemory": "c",
+        "xutility": "c"
+    }
+}
